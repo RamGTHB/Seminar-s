@@ -1,0 +1,15 @@
+C:\Users\ermol\Downloads\WORK\5\Sem\Seminar's\Sem003\bin\Debug\net6.0\Sem003.exe
+C:\Users\ermol\Downloads\WORK\5\Sem\Seminar's\Sem003\bin\Debug\net6.0\Sem003.deps.json
+C:\Users\ermol\Downloads\WORK\5\Sem\Seminar's\Sem003\bin\Debug\net6.0\Sem003.runtimeconfig.json
+C:\Users\ermol\Downloads\WORK\5\Sem\Seminar's\Sem003\bin\Debug\net6.0\Sem003.dll
+C:\Users\ermol\Downloads\WORK\5\Sem\Seminar's\Sem003\bin\Debug\net6.0\ref\Sem003.dll
+C:\Users\ermol\Downloads\WORK\5\Sem\Seminar's\Sem003\bin\Debug\net6.0\Sem003.pdb
+C:\Users\ermol\Downloads\WORK\5\Sem\Seminar's\Sem003\obj\Debug\net6.0\Sem003.csproj.AssemblyReference.cache
+C:\Users\ermol\Downloads\WORK\5\Sem\Seminar's\Sem003\obj\Debug\net6.0\Sem003.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ermol\Downloads\WORK\5\Sem\Seminar's\Sem003\obj\Debug\net6.0\Sem003.AssemblyInfoInputs.cache
+C:\Users\ermol\Downloads\WORK\5\Sem\Seminar's\Sem003\obj\Debug\net6.0\Sem003.AssemblyInfo.cs
+C:\Users\ermol\Downloads\WORK\5\Sem\Seminar's\Sem003\obj\Debug\net6.0\Sem003.csproj.CoreCompileInputs.cache
+C:\Users\ermol\Downloads\WORK\5\Sem\Seminar's\Sem003\obj\Debug\net6.0\Sem003.dll
+C:\Users\ermol\Downloads\WORK\5\Sem\Seminar's\Sem003\obj\Debug\net6.0\ref\Sem003.dll
+C:\Users\ermol\Downloads\WORK\5\Sem\Seminar's\Sem003\obj\Debug\net6.0\Sem003.pdb
+C:\Users\ermol\Downloads\WORK\5\Sem\Seminar's\Sem003\obj\Debug\net6.0\Sem003.genruntimeconfig.cache
