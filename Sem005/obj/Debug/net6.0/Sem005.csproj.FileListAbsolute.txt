@@ -1,0 +1,15 @@
+C:\Users\ermol\Downloads\WORK\5 Знакомство с языками программирования\Sem\Seminar's\Sem005\bin\Debug\net6.0\Sem005.exe
+C:\Users\ermol\Downloads\WORK\5 Знакомство с языками программирования\Sem\Seminar's\Sem005\bin\Debug\net6.0\Sem005.deps.json
+C:\Users\ermol\Downloads\WORK\5 Знакомство с языками программирования\Sem\Seminar's\Sem005\bin\Debug\net6.0\Sem005.runtimeconfig.json
+C:\Users\ermol\Downloads\WORK\5 Знакомство с языками программирования\Sem\Seminar's\Sem005\bin\Debug\net6.0\Sem005.dll
+C:\Users\ermol\Downloads\WORK\5 Знакомство с языками программирования\Sem\Seminar's\Sem005\bin\Debug\net6.0\ref\Sem005.dll
+C:\Users\ermol\Downloads\WORK\5 Знакомство с языками программирования\Sem\Seminar's\Sem005\bin\Debug\net6.0\Sem005.pdb
+C:\Users\ermol\Downloads\WORK\5 Знакомство с языками программирования\Sem\Seminar's\Sem005\obj\Debug\net6.0\Sem005.csproj.AssemblyReference.cache
+C:\Users\ermol\Downloads\WORK\5 Знакомство с языками программирования\Sem\Seminar's\Sem005\obj\Debug\net6.0\Sem005.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ermol\Downloads\WORK\5 Знакомство с языками программирования\Sem\Seminar's\Sem005\obj\Debug\net6.0\Sem005.AssemblyInfoInputs.cache
+C:\Users\ermol\Downloads\WORK\5 Знакомство с языками программирования\Sem\Seminar's\Sem005\obj\Debug\net6.0\Sem005.AssemblyInfo.cs
+C:\Users\ermol\Downloads\WORK\5 Знакомство с языками программирования\Sem\Seminar's\Sem005\obj\Debug\net6.0\Sem005.csproj.CoreCompileInputs.cache
+C:\Users\ermol\Downloads\WORK\5 Знакомство с языками программирования\Sem\Seminar's\Sem005\obj\Debug\net6.0\Sem005.dll
+C:\Users\ermol\Downloads\WORK\5 Знакомство с языками программирования\Sem\Seminar's\Sem005\obj\Debug\net6.0\ref\Sem005.dll
+C:\Users\ermol\Downloads\WORK\5 Знакомство с языками программирования\Sem\Seminar's\Sem005\obj\Debug\net6.0\Sem005.pdb
+C:\Users\ermol\Downloads\WORK\5 Знакомство с языками программирования\Sem\Seminar's\Sem005\obj\Debug\net6.0\Sem005.genruntimeconfig.cache
