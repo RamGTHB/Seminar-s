@@ -138,14 +138,14 @@
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 // Написать программу, которая в двумерном массиве заменяет строки на столбцы или сообщить, что это невозможно (в случае, если матрица не квадратная).
 
-void FillArray(int[,] array, int rowLength, int colLength)
-{
-    for (int i = 0; i < rowLength; i++)
-    {
-        for (int j = 0; j < colLength; j++)
-        {
-            int currentRand = new Random().Next(-4,3);
-            array[i,j] = (currentRand ==0) ? new Random().Next(1,3) : currentRand;
-        }
-    }
-}
+// void FillArray(int[,] array, int rowLength, int colLength)
+// {
+//     for (int i = 0; i < rowLength; i++)
+//     {
+//         for (int j = 0; j < colLength; j++)
+//         {
+//             int currentRand = new Random().Next(-4,3);
+//             array[i,j] = (currentRand ==0) ? new Random().Next(1,3) : currentRand;
+//         }
+//     }
+// }
