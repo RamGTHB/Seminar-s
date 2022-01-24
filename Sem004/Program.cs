@@ -174,9 +174,93 @@
 
 
 /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+// Написать программу копирования массива
+// int[] CreateArray(int sizeArray, int min, int max)
+// {
+//     int[] arrayToReturn = new int[sizeArray];
+//     Random rnd = new Random();
+//     for (int i = 0; i < sizeArray; i++)
+//     {
+//         arrayToReturn[i] = rnd.Next(min, max);
+//     }
+//     return arrayToReturn;
+// }
 
+// void ShowArray(int[] arrayToShow, string nameOfArray)
+// {
+//     Console.WriteLine($"\n{nameOfArray}");
+//     for (int i = 0; i < arrayToShow.Length; i++)
+//     {
+//         Console.Write($"{arrayToShow[i]} \t");
+//     }
+//     Console.WriteLine();
+// }
 
+// int[] CopyArray(int[] arrayToCopy)
+// {
+//     int[] copyArray = new int[arrayToCopy.Length];
+//     for (int i = 0; i < arrayToCopy.Length; i++)
+//     {
+//         copyArray[i] = arrayToCopy[i];
+//     }
+//     return copyArray;
+// }
 
+// int[] resultArray = CreateArray(10, 1, 10);
+// ShowArray(resultArray, "Первоначальный массив");
+// int[] resultCopyArray = CopyArray(resultArray);
+// resultArray[4] = 20;
+// ShowArray(resultArray, "Измененный массив со значением 20 на месте 4 индекса");
+// ShowArray(resultCopyArray, "Скопированный массив");
 
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+// Выяснить являются ли три числа сторонами треугольника
+
+// int a =3;
+// int b =4;
+// int c =5;
+
+// if ((a+b)>c && (b+c)>a && (a+c)>b)
+// {
+//     Console.WriteLine("Это стороны треугольника");
+// }
+// else
+// {
+//     Console.WriteLine("Это не стороны треугольника");
+// }
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+// Написать программу преобразования десятичного числа в двоичное
+// Console.WriteLine("Введи число...");
+// int number = Convert.ToInt32(Console.ReadLine());
+// string binary = Convert.ToString(number, 2);
+// Console.WriteLine($"\nПеревел в двоичное {binary}\n");
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+// Найти точку пересечения двух прямых заданных уравнением y = k1 * x + b1, y = k2 * x + b2, b1, k1 и b2, k2 заданы
+// где: b1,2 - длина отрезка, k1,2 угловой коэффициент. 
+
+Console.WriteLine("Введи к1...");
+int k1 = Convert.ToInt32(Console.ReadLine());
+Console.WriteLine("Введи b1...");
+double b1 = Convert.ToInt32(Console.ReadLine());
+Console.WriteLine("Введи к2...");
+double k2 = Convert.ToInt32(Console.ReadLine());
+Console.WriteLine("Введи b2...");
+double b2 = Convert.ToInt32(Console.ReadLine());
+double x = 0;
+double y = 0;
+
+if (k1 != k2)
+{
+    x = (b1 - b2) / (k2 - k1);
+    y = k1 * x + b1;
+    Console.WriteLine($"\nПересечение в точке: X = {x}, Y = {y}\n");
+}
+else
+{
+    Console.WriteLine("\nНет пересечения\n");
+}
 
 

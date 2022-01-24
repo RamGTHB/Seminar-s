@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ermol\\Downloads\\WORK\\5\\Sem\\Seminar's\\Sem004\\Sem004.csproj",
+      "projectUniqueName": "C:\\Users\\ermol\\Downloads\\WORK\\5 Знакомство с языками программирования\\Sem\\Seminar's\\Sem004\\Sem004.csproj",
       "projectName": "Sem004",
-      "projectPath": "C:\\Users\\ermol\\Downloads\\WORK\\5\\Sem\\Seminar's\\Sem004\\Sem004.csproj",
+      "projectPath": "C:\\Users\\ermol\\Downloads\\WORK\\5 Знакомство с языками программирования\\Sem\\Seminar's\\Sem004\\Sem004.csproj",
       "packagesPath": "C:\\Users\\ermol\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ermol\\Downloads\\WORK\\5\\Sem\\Seminar's\\Sem004\\obj\\",
+      "outputPath": "C:\\Users\\ermol\\Downloads\\WORK\\5 Знакомство с языками программирования\\Sem\\Seminar's\\Sem004\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ermol\\AppData\\Roaming\\NuGet\\NuGet.Config"
